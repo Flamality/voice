@@ -2,4 +2,4 @@
 
 ---
 
-Create simplistic polls and surveys easily
+Create simplistic polls and surveys easily.
