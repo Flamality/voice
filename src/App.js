@@ -1,7 +1,8 @@
 import "./App.css";
+import PageRoutes from "./frontend/Routes.jsx";
 
 function App() {
-  return <div className='App'></div>;
+  return <PageRoutes />;
 }
 
 export default App;
